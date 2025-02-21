@@ -1,4 +1,5 @@
 # lect-5-quiz
+NABWIRE EDITH 2024/DSC/0055/SS
 1. C
 2. B
 3. C
